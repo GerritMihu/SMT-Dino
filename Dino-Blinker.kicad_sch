@@ -3668,7 +3668,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:SOIC127P600X175-16N"
+		(property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm"
 			(at 224.155 184.455 0)
 			(effects
 				(font
