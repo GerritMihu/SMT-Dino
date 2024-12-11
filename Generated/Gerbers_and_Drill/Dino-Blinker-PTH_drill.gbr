@@ -1,0 +1,22 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.6+1*%
+%TF.CreationDate,2024-12-11T00:22:32+00:00*%
+%TF.ProjectId,Dino-Blinker,44696e6f-2d42-46c6-996e-6b65722e6b69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Plated,1,2,PTH,Drill*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.6+1) date 2024-12-11 00:22:32*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentDrill*%
+%ADD10C,1.000000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J1*%
+X138460000Y-112750000D03*
+X141000000Y-112750000D03*
+M02*

@@ -1,0 +1,46 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2024-12-11T00:18:46+0000",
+    "kicad_version": "8.0.6",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/eb9e8942-076c-4626-a1cc-a5f88050ed08",
+            "violations": [
+                {
+                    "description": "Symbol 'GND' has been modified in library 'power'",
+                    "items": [
+                        {
+                            "description": "Symbol #PWR04 [GND]",
+                            "pos": {
+                                "x": 1.9685,
+                                "y": 1.143
+                            },
+                            "uuid": "0730c515-df22-4b8a-84c8-3354b28bdbcb"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_issues"
+                },
+                {
+                    "description": "The current configuration does not include the library 'SamacSys_Parts'",
+                    "items": [
+                        {
+                            "description": "Symbol IC1 [M74HC4060YRM13TR]",
+                            "pos": {
+                                "x": 2.0066,
+                                "y": 0.9017
+                            },
+                            "uuid": "954b4781-92bb-4dc8-aad4-9890b092de0d"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_issues"
+                }
+            ],
+            "file_name": "Dino-Blinker.kicad_sch"
+        }
+    ],
+    "source": "Dino-Blinker.kicad_sch"
+}
