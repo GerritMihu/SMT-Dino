@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "Capacitor_SMD") (type "KiCad") (uri "${KIPRJMOD}/footprints/Capacitor_SMD.pretty") (options "") (descr "Capacitor, surface mount"))
+  (lib (name "Connector_PinHeader_2.54mm") (type "KiCad") (uri "${KIPRJMOD}/footprints/Connector_PinHeader_2.54mm.pretty") (options "") (descr "Pin headers, 2.54mm pitch"))
+  (lib (name "LED_SMD") (type "KiCad") (uri "${KIPRJMOD}/footprints/LED_SMD.pretty") (options "") (descr "Light emitting diodes (LED), surface mount"))
+  (lib (name "Package_SO") (type "KiCad") (uri "${KIPRJMOD}/footprints/Package_SO.pretty") (options "") (descr "Small Outline Integrated Circuits (SOIC, SSOP, xSOP, xSO)"))
+  (lib (name "Resistor_SMD") (type "KiCad") (uri "${KIPRJMOD}/footprints/Resistor_SMD.pretty") (options "") (descr "Resistor footprints, surface mount (SMD)"))
+)

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "Connector") (type "KiCad") (uri "${KIPRJMOD}/symbols/Connector.kicad_sym") (options "") (descr ""))
+  (lib (name "Device") (type "KiCad") (uri "${KIPRJMOD}/symbols/Device.kicad_sym") (options "") (descr ""))
+  (lib (name "power") (type "KiCad") (uri "${KIPRJMOD}/symbols/power.kicad_sym") (options "") (descr ""))
+  (lib (name "SamacSys_Parts") (type "KiCad") (uri "${KIPRJMOD}/symbols/SamacSys_Parts.kicad_sym") (options "") (descr ""))
+)
